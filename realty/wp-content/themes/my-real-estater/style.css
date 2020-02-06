@@ -1,0 +1,76 @@
+/*
+    Theme Name: realty
+    Template: real-estater
+*/
+
+@import url('../real-estater/style.css');
+
+.promotional-bar-section .container {
+    justify-content: center;
+}
+
+.promotional-bar-content {
+    text-align: center;
+}
+
+.promotional-bar-section input.wpcf7-form-control.wpcf7-submit {
+    display: block;
+    margin: 0 auto;
+}
+
+
+.promotional-bar-section label {
+    color: #fff; 
+    margin-bottom: 20px ;
+}
+.wpcf7-form input, .wpcf7-form textarea {
+    color: #fff;
+}
+.taxonomy {
+    margin: 0 0 30px;
+    border: 1px solid rgba(0,0,0,0.1);
+    float: left;
+    width: 100%;
+    padding: 15px;
+}
+
+#text-4 {
+    display: none;
+}
+
+#text-5 {
+    display: none;
+}
+
+.promotional-bar-section textarea {
+    color: #fff;
+    font-size: 14px;
+    font-family: 'Cairo', sans-serif;
+}
+
+.info {
+    display: block;
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+.info-name:after {
+    background: #f3c93a none repeat scroll 0 0;
+    bottom: -3px;
+    content: "";
+    display: block;
+    height: 2px;
+    left: 0;
+    width: 100%;
+    position: absolute;
+}
+
+.info-name {
+    display: inline-block;
+    position: relative;
+    color: #676767;
+}
+
+.info-value {
+    color: #000000;
+}

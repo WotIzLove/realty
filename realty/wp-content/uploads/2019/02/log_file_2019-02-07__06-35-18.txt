@@ -1,0 +1,61 @@
+
+---Downloaded files---
+The import files for: Real Estater were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://demo.theme404.com/test
+Data file = /home/theme404/public_html/demo/test/wp-content/themes/real-estater/demo-content/realestate.wordpress.2019-02-07.xml
+Widget file = /home/theme404/public_html/demo/test/wp-content/themes/real-estater/demo-content/demo.theme404.com-real-estater-widgets.wie
+Customizer file = /home/theme404/public_html/demo/test/wp-content/themes/real-estater/demo-content/real-estater-export.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Right Sidebar : 
+
+Search - Search - Imported
+Categories - No Title - Widget already exists
+Recent Posts - Recent Buzzs - Imported
+Gallery - Gallery - Imported
+Categories - Categories - Imported
+Video - Video - Imported
+
+Left Sidebar : 
+
+Search - Search - Imported
+Categories - Categories - Imported
+Newsletter Minimal - Subscribe - Imported
+Recent Posts - Recent Posts - Imported
+Gallery - Gallery - Imported
+Video - How to Buy Real Estate - Imported
+Text - No Title - Imported
+Newsletter Minimal - Subscribe - Imported
+Gallery - Gallery - Imported
+Navigation Menu - Quick Menu - Imported
+Text - No Title - Imported
+Newsletter Minimal - Subscribe - Imported
+Gallery - Gallery - Imported
+
+Footer 1 : 
+
+Custom HTML - No Title - Imported
+
+Footer  2 : 
+
+Newsletter Minimal - Subcribe - Imported
+
+Footer  3 : 
+
+Gallery - Gallery - Imported
+
+Footer 4 : 
+
+Navigation Menu - Quick Menu - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

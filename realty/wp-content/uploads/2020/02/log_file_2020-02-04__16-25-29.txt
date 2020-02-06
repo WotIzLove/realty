@@ -1,0 +1,80 @@
+
+---Downloaded files---
+The import files for: Real Estater were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/realty
+Data file = C:\xampp\htdocs\realty/wp-content/themes/real-estater/demo-content/daillyshop.wordpress.2019-02-07.xml
+Widget file = C:\xampp\htdocs\realty/wp-content/themes/real-estater/demo-content/demo.theme404.com-test-widgets.wie
+Customizer file = C:\xampp\htdocs\realty/wp-content/themes/real-estater/demo-content/real-estater-export.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "education-minimal.zip" (Медиафайлы)
+[ERROR] Failed to import "education-minimal.zip" (Медиафайлы)
+
+
+---Importing widgets---
+Right Sidebar : 
+
+Поиск - No Title - Imported
+Свежие записи - No Title - Imported
+Свежие комментарии - No Title - Imported
+Архивы - No Title - Imported
+Рубрики - No Title - Imported
+Мета - No Title - Imported
+Поиск - Search - Imported
+Свежие записи - Recent Buzzs - Imported
+Галерея - Gallery - Imported
+Рубрики - Categories - Imported
+Видео - Video - Imported
+
+Left Sidebar : 
+
+Поиск - Search - Imported
+Рубрики - Categories - Imported
+newsletterwidgetminimal - Subscribe - Site does not support widget
+Свежие записи - Recent Posts - Imported
+Галерея - Gallery - Imported
+Видео - How to Buy Real Estate - Imported
+Текст - No Title - Imported
+newsletterwidgetminimal - Subscribe - Site does not support widget
+Галерея - Gallery - Imported
+Меню навигации - Quick Menu - Imported
+Текст - No Title - Imported
+newsletterwidgetminimal - Subscribe - Site does not support widget
+Галерея - Gallery - Imported
+
+Footer 1 : 
+
+HTML-код - No Title - Imported
+
+Footer  2 : 
+
+newsletterwidgetminimal - Subcribe - Site does not support widget
+
+Footer  3 : 
+
+Галерея - Gallery - Imported
+
+Footer 4 : 
+
+Меню навигации - Quick Menu - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
